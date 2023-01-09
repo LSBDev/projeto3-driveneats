@@ -1,0 +1,79 @@
+.pratoSelecionado, 
+.bebidaSelecionada, 
+.sobremesaSelecionada {
+  border: 5px solid  #32B72F;;
+}
+.frango, .coquinha, .pudim {
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+// border: 5px solid rgb(255, 255, 255);
+}
+.produto {
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  border: 5px solid #ffffff;
+  box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.25);
+}
+.prato,.bebida, .sobremesa {
+  display: flex;
+  overflow-x: scroll;
+  & div {
+    margin: 10px 7px;
+  }
+}
+.botaoAntes {
+  width: 100%;
+  max-width: 415px;
+  height: 50px;
+  background-color: #CBCBCB;;
+  color: #ffffff;
+  border-radius: 25px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0 auto;
+}
+.botao {
+  width: 100%;
+  max-width: 415px;
+  height: 50px;
+  background-color: #32B72F;;
+  color: #ffffff;
+  border-radius: 25px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0 auto;
+}
+.escondido {
+  display: none;
+}
+.nota {
+  flex-direction: column;
+  align-items: center;
+  width: 377px;
+  height: 353px;
+  background-color: #32B72F;;
+  border-radius: 10px;
+  margin: auto;
+}
+.pedir {
+  width: 330px;
+  border-radius: 100px;
+  background-color: white;
+  color: #32B72F;;
+  text-align: center;
+}
+.check {
+  display: flex;
+  justify-content: space-between;
+}
+ion-icon {
+  font-size: 25px;
+  margin-top: 8px;
+  color: #32B72F;;
+}
