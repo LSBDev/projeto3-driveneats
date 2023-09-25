@@ -6,10 +6,9 @@ O DrivenEats é um webapp intuitivo que permite que você escolha seus pratos, b
 
 <a href="https://driveneats-orpin.vercel.app/"> Link para a Aplicação </a>
 <p align="center">
-  <img width="23%" src="./src/assets/login.png" />
-  <img width="23%" src="./src/assets/transacões 1.png" />
-  <img width="23%" src="./src/assets/inserindo entrada.png" />
-  <img width="23%" src="./src/assets/transacões 2.png" />
+  <img width="23%" src="./img/DrivenEats1.jpg" />
+  <img width="23%" src="./img/DrivenEats2.jpg" />
+  <img width="23%" src="./img/DrivenEats3.jpg" />
 </p>
 
 ## Funcionalidades Principais
